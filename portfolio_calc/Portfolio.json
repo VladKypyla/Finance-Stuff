@@ -1,0 +1,104 @@
+{   
+	"wallet": [
+		{
+		 "Ammount": "3"
+		}
+		
+	
+	],
+	
+    "portfolio": [
+        {
+         "id":      "BTC",
+         "name":    "Bitcoin",
+         "price":   "55904.71106",
+         "ammount": "0.00711667"
+        },
+		
+		{
+         "id":      "CHZ",
+         "name":    "Chiliz",
+         "price":   "0.57632",
+         "ammount": "70.5294"
+        },
+		
+		{
+         "id":      "MANA",
+         "name":    "Decentraland",
+         "price":   "0.85375",
+         "ammount": "28.1"
+        },
+		
+		{
+         "id":      "AUDIO",
+         "name":    "Audius",
+         "price":   "1.3167",
+         "ammount": "40.8792"
+        },
+		
+		{
+         "id":      "GHST",
+         "name":    "Aavegotchi",
+         "price":   "1.4801",
+         "ammount": "16.2"
+        },
+		
+		{
+         "id":      "ENJ",
+         "name":    "Enjincoin",
+         "price":   "1.7383",
+         "ammount": "13.2"
+        },
+		
+		{
+         "id":      "AXS",
+         "name":    "Axie-Infinity",
+         "price":   "4.86018",
+         "ammount": "4.9"
+        },
+		
+		{
+         "id":      "DEGO",
+         "name":    "Dego-Finance",
+         "price":   "17.224",
+         "ammount": "1.393"
+        },
+		
+		{
+         "id":      "PHA",
+         "name":    "Pha",
+         "price":   "1.0062",
+         "ammount": "19.88"
+        },
+		
+		{
+         "id":      "LIT",
+         "name":    "Litentry",
+         "price":   "11.2368",
+         "ammount": "1.81"
+        },
+		
+		{
+         "id":      "ERN",
+         "name":    "ethernity-chain",
+         "price":   "30.626",
+         "ammount": "0.658"
+        },
+		
+		{
+         "id":      "CHAIN",
+         "name":    "chain-games",
+         "price":   "0.83",
+         "ammount": "30.12"
+        },
+		
+		{
+         "id":      "ETH",
+         "name":    "ethereum",
+         "price":   "1701.80",
+         "ammount": "0.03481"
+        }
+		
+
+    ]
+}
